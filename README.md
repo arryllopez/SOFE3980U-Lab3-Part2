@@ -1,5 +1,7 @@
 Editing the readme to trigger the build
 
+Editing the readme to trigger the Jenkinsfile build
+
 # Lab 3 Part 2: Continuous Integration and Continuous Delivery (Jenkins)
 ## Objective   
 1. Get Familiar with Jenkins.
